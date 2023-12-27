@@ -1,0 +1,205 @@
+.body {
+  background-color: black;
+  color: white;
+  background-size: cover;
+}
+.whole {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px;
+}
+.top-1 {
+  width: 100px;
+  height: 100px;
+  margin-left: 100px;
+}
+.nav {
+  align-items: left;
+  margin-left: auto;
+  flex-direction: row;
+  align-items: center;
+}
+
+.inner {
+  margin-right: 100px;
+  color: white;
+}
+
+.middle {
+  background-image: url('https://s3.amazonaws.com/cdn-ecomm.dreamingcode.com/public/440/images/CRRC_Wing_Inflatables_Combat_Rubber_Raiding_Craft.jpg');
+  background-size: cover;
+  height: 400px;
+  font-style: italic;
+  text-align: center;
+}
+.text-middle {
+  padding-top: 120px;
+}
+.button-section {
+  text-align: center;
+}
+
+.buttons {
+  width: 120px;
+  height: 40px;
+  border-radius: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.selected {
+  background-color: red;
+  color: white;
+}
+
+.input-section {
+  text-align: center;
+}
+
+.location {
+  margin-left: -120px;
+  width: 180px;
+  height: 40px;
+}
+
+.select {
+  margin-left: 90px;
+  width: 180px;
+  height: 40px;
+}
+
+.calendar {
+  margin-left: 90px;
+  width: 180px;
+  height: 40px;
+}
+.lists {
+  display: flex;
+  flex-direction: row;
+  align-items: column;
+  align-content: flex-end;
+  justify-content: center;
+}
+
+.inital,
+.second,
+.goa {
+  width: 350px;
+  height: 250px;
+  text-align: center;
+  margin-left: 20px;
+}
+.himachal {
+  background-image: url('https://www.holidify.com/images/bgImages/HIMACHAL-PRADESH.jpg');
+  background-size: cover;
+  width: 350px;
+}
+.second {
+  background-color: lightslategray;
+}
+.goa {
+  background-image: url('https://assets.vogue.in/photos/63889b741b8712b28236a56b/2:3/w_2560%2Cc_limit/Goa.jpeg');
+  background-size: cover;
+}
+.rishikesh {
+  margin-top: 20px;
+  background-image: url('https://rishikeshdaytour.com/blog/wp-content/uploads/2019/03/Rishikesh-Uttarakhand-India.jpg');
+  background-size: cover;
+}
+.jammu {
+  background-image: url('https://cdn.britannica.com/74/144674-050-D5755E4F/Jhelum-River-Srinagar-India-Jammu-and-Kashmir.jpg');
+  background-size: cover;
+  margin-top: 20px;
+}
+.bottom-3 {
+  text-align: center;
+}
+.adventure {
+  width: 300px;
+  height: 250px;
+  background-image: url('https://i.pinimg.com/736x/73/84/38/738438d8a6fcca11c8df9f5a1169348c.jpg');
+  background-size: cover;
+}
+.rental {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bPp-tcQmZ6o32s_N7LwND7k4OR7IbQgyCg&usqp=CAU');
+  background-size: cover;
+}
+.taxi {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv30gMGcZxGMmofXhXGS3EoWGpb24EbUWD1w&usqp=CAU');
+  background-size: cover;
+}
+.inner-b2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.b-1 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 40px;
+  justify-content: center;
+}
+.b2 {
+  width: 350px;
+  height: 350px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border: solid;
+  border-radius: 20px;
+  background-color: lightslategray;
+}
+.im {
+  width: 345px;
+  height: 200px;
+}
+.river-rafting {
+  background-image: url('https://www.kashmirhills.com/wp-content/uploads/2015/02/River-Rafting-1.jpg');
+  background-size: cover;
+  height: 300px;
+  padding: 90px;
+}
+.book-taxi {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.book-ride {
+  background-image: url('https://media.istockphoto.com/id/140276231/photo/suv.jpg?s=612x612&w=0&k=20&c=zYVYfBr8yOw9UWZ0w-FIrM6HeoJpwA4jKXplZ2_lRLc=');
+  background-size: cover;
+  padding-right: 200px;
+  padding-left: 30px;
+  height: 350px;
+}
+.book-taxis {
+  background-color: lightgray;
+  padding: 20px;
+  height: 300px;
+}
+.b {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.f1 {
+  padding-top: 20px;
+  width: 270px;
+}
+.footer {
+  margin-top: 10px;
+  background-color: lightslategray;
+}
+.b-i {
+  width: 100px;
+  height: 100px;
+}
+.f-b {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
